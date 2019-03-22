@@ -13,7 +13,7 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="A" />
+            android:text="@string/A" />
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -23,7 +23,7 @@
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="B" />
+                android:text="@string/B" />
         </LinearLayout>
 
     </LinearLayout>
@@ -37,7 +37,7 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="C" />
+            android:text="@string/C" />
 
     </LinearLayout>
 
@@ -63,12 +63,12 @@
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="H" />
+                    android:text="@string/H" />
 
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="I" />
+                    android:text="@string/I" />
             </LinearLayout>
 
             <LinearLayout
@@ -86,7 +86,7 @@
                     <Button
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="G" />
+                        android:text="@string/G" />
                 </LinearLayout>
 
             </LinearLayout>
@@ -109,7 +109,7 @@
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="D" />
+                android:text="@string/D" />
         </LinearLayout>
 
         <LinearLayout
@@ -120,12 +120,12 @@
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="E" />
+                android:text="@string/E" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="F" />
+                android:text="@string/F" />
         </LinearLayout>
 
         <LinearLayout
@@ -136,17 +136,17 @@
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="I" />
+                android:text="@string/I" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="J" />
+                android:text="@string/J" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="K" />
+                android:text="@string/K" />
         </LinearLayout>
     </LinearLayout>
 </LinearLayout>

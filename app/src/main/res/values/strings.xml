@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Homeword1b</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="C">C</string>
+    <string name="D">D</string>
+    <string name="E">E</string>
+    <string name="F">F</string>
+    <string name="G">G</string>
+    <string name="H">H</string>
+    <string name="I">I</string>
+    <string name="J">J</string>
+    <string name="K">K</string>
 </resources>
